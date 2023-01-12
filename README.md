@@ -2,14 +2,16 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## Skills
-![](https://img.shields.io/badge/Java-informational?style=white&color=97F52E)
-![](https://img.shields.io/badge/Python-informational?style=white&color=97F52E)
-![](https://img.shields.io/badge/C++-informational?style=white&color=97F52E)
-![](https://img.shields.io/badge/Php-informational?style=white&color=97F52E)
+![](https://img.shields.io/badge/Advance-Java-informational?style=white&color=97F52E)
+![](https://img.shields.io/badge/Medium-Python-informational?style=white&color=97F52E)
+![](https://img.shields.io/badge/Medium-C++-informational?style=white&color=97F52E)
+![](https://img.shields.io/badge/Basic-Php-informational?style=white&color=97F52E)
 
 ## Frontend Development
-![](https://img.shields.io/badge/React-informational?style=white&color=97F52E)
-![](https://img.shields.io/badge/HTML5-informational?style=white&color=97F52E)
+![](https://img.shields.io/badge/code-React-informational?style=flat&logo=react&logoColor=white&color=FFAE42)
+![](https://img.shields.io/badge/Advance-HTML5-informational?style=white&color=FFAE42)
+![](https://img.shields.io/badge/Advance-CSS-informational?style=white&color=FFAE42)
+![](https://img.shields.io/badge/code-JavaScript-informational?style=white&color=FFAE42)
 
 ## Backend Development
 ![](https://img.shields.io/badge/Nodejs-informational?style=white&color=97F52E)
@@ -48,22 +50,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/sachin778899" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<a href="https://www.linkedin.com/in/sachin-s-b86009229/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+<a href="https://www.kaggle.com/sachinjaz" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%232E87FB.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a> 
 </div>  
