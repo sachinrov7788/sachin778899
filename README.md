@@ -60,7 +60,7 @@
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
 
 ## Connect with me  
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/sachin778899" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/sachinjaz" target="_blank">
