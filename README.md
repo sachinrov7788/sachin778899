@@ -14,39 +14,39 @@
 ![](https://img.shields.io/badge/code-JavaScript-informational?style=white&color=FFAE42)
 
 ## Backend Development
-![](https://img.shields.io/badge/Nodejs-informational?style=white&color=97F52E)
-![](https://img.shields.io/badge/Hadoop-informational?style=white&color=97F52E)
+![](https://img.shields.io/badge/Advance-Nodejs-informational?style=white&color=42ffd6)
+![](https://img.shields.io/badge/Medium-Hadoop-informational?style=white&color=42ffd6)
 
 ## AI/ML  
-![](https://img.shields.io/badge/Tensorflow-informational?style=white&color=97F52E)
-![](https://img.shields.io/badge/Pandas-informational?style=white&color=97F52E)
-![](https://img.shields.io/badge/Seaborn-informational?style=white&color=97F52E)
-![](https://img.shields.io/badge/Scikit_learn-informational?style=white&color=97F52E)
+![](https://img.shields.io/badge/Basic-Tensorflow-informational?style=white&color=f6ff42)
+![](https://img.shields.io/badge/Advance-Pandas-informational?style=white&color=f6ff42)
+![](https://img.shields.io/badge/Basic-Seaborn-informational?style=white&color=f6ff42)
+![](https://img.shields.io/badge/Basic-Scikit_learn-informational?style=white&color=f6ff42)
 
 ## Database
-![](https://img.shields.io/badge/Mongo_DB-informational?style=white&color=97F52E)
-![](https://img.shields.io/badge/My_sql-informational?style=white&color=97F52E)
-![](https://img.shields.io/badge/Oracle-informational?style=white&color=97F52E)
+![](https://img.shields.io/badge/Mongo_DB-informational?style=white&color=ff4242)
+![](https://img.shields.io/badge/My_sql-informational?style=white&color=ff4242)
+![](https://img.shields.io/badge/Oracle-informational?style=white&color=ff4242)
 
 ## Devops
-![](https://img.shields.io/badge/Azure-informational?style=white&color=97F52E)
-![](https://img.shields.io/badge/AWS-informational?style=white&color=97F52E)
+![](https://img.shields.io/badge/Azure-informational?style=white&color=42ff4b)
+![](https://img.shields.io/badge/AWS-informational?style=white&color=42ff4b)
 
 ## Backend as a Service(BaaS)
-![](https://img.shields.io/badge/Heroku-informational?style=white&color=97F52E)
+![](https://img.shields.io/badge/Advance-Heroku-informational?style=white&color=ff42cd)
 
 ## Framework
-![](https://img.shields.io/badge/Flask-informational?style=white&color=97F52E)
-![](https://img.shields.io/badge/Django-informational?style=white&color=97F52E)
+![](https://img.shields.io/badge/Advance-Flask-informational?style=white&color=8a42ff)
+![](https://img.shields.io/badge/Medium-Django-informational?style=white&color=8a42ff)
 
 ## Software
-![](https://img.shields.io/badge/Ai-informational?style=white&color=97F52E)
-![](https://img.shields.io/badge/Photoshop-informational?style=white&color=97F52E)
-![](https://img.shields.io/badge/Figma-informational?style=white&color=97F52E)
-![](https://img.shields.io/badge/Sketch-informational?style=white&color=97F52E)
+![](https://img.shields.io/badge/Advance-Ai-informational?style=white&color=42e3ff)
+![](https://img.shields.io/badge/Advance-Photoshop-informational?style=white&color=42e3ff)
+![](https://img.shields.io/badge/Basic-Figma-informational?style=white&color=42e3ff)
+![](https://img.shields.io/badge/Basic-Sketch-informational?style=white&color=42e3ff)
 
 ## Other
-![](https://img.shields.io/badge/Linux-informational?style=white&color=97F52E)
+![](https://img.shields.io/badge/Linux-informational?style=white&color=ff429a)
 
 ## Connect with me  
 <div align="center">
