@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
+
+<h3 align="left">Iam currently persuring B.Tech in Artificial Intelligence and Data Science in KPRIET and I'm interest to learn something new so my interest towards Artificial Intelligence and Data Science.</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## Skills
