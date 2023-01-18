@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sachin</h1>
+<h1 align=center>
+  Hi I'm Sachin
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <h3 align="left">Iam currently persuring B.Tech in Artificial Intelligence and Data Science in KPRIET and I'm interest to learn something new so my interest towards Artificial Intelligence and Data Science.</h3>
 
